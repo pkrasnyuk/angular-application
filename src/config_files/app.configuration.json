@@ -1,0 +1,5 @@
+{
+  "common": {
+    "api": "http://localhost:1200/api"
+  }
+}
